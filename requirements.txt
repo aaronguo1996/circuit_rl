@@ -2,6 +2,6 @@ numpy
 scipy
 pandas
 pyquil
-gym
-qiskit
+gym==0.26.2
+qiskit==1.0.2
 matplotlib==3.4.0
