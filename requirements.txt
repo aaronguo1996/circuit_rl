@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+pyquil
+gym
+qiskit
+matplotlib==3.4.0
