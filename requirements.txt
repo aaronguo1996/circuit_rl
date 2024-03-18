@@ -5,3 +5,8 @@ pyquil
 gym==0.26.2
 qiskit==1.0.2
 matplotlib==3.4.0
+stable_baselines3[extra]
+pylatexenc
+
+--find-links https://download.pytorch.org/whl/cu118
+torch==2.2.1
